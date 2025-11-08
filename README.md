@@ -1,4 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/8e124f57-3849-465a-940b-aa085b45d9a0.svg)](https://wakatime.com/@8e124f57-3849-465a-940b-aa085b45d9a0)
-![WakaTime Stats](https://wakatime.com/share/@ByteX/22efa3cc-b064-4bc6-98d4-f2f66f781988.svg)
+### My Coding Activity
+<a href="https://wakatime.com/@ByteX">
+  <img src="https://wakatime.com/share/@ByteX/3b4bbf56-f313-454c-b609-6d1ec57cb284.svg" alt="WakaTime Stats" />
+</a>
 
-**Coding time since 01.11.2025 · Weekly hours shown above.**
+**Wakatime since 01.11.2025**
