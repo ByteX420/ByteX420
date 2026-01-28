@@ -4,7 +4,6 @@
   <img src="https://wakatime.com/share/@ByteX/3b4bbf56-f313-454c-b609-6d1ec57cb284.svg" alt="WakaTime Stats" />
 </a>
 
-**Wakatime since 31.10.2025**
-
-**100h: 18.12.25**
+**Wakatime since 31.10.2025**<br><br>
+**100h: 18.12.25**<br><br>
 **200h: 25.01.26**
